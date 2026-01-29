@@ -1,0 +1,6 @@
+import os
+
+DATABASE_URL = os.getenv("DATABASE_URL")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
+CHAT_ID = os.getenv("CHAT_ID")
+GAS_THRESHOLD = 2000
