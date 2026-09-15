@@ -1,5 +1,5 @@
 import requests
-from config import TELEGRAM_TOKEN, CHAT_ID
+from backend.config import TELEGRAM_TOKEN, CHAT_ID
 
 def send_alert(level):
     message = f"🚨 GAS LEAK DETECTED! Level: {level}"
