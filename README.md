@@ -132,7 +132,7 @@ docker-compose up --build
 Backend will be available at:
 
 ```
-http://localhost:8000
+http://localhost:8800
 ```
 
 ---
@@ -155,7 +155,7 @@ A lightweight web dashboard displays system status and confirms live monitoring.
 Access:
 
 ```
-http://localhost:8000
+http://localhost:8800
 ```
 
 ---
