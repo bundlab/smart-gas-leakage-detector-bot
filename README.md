@@ -202,6 +202,7 @@ MIT License
 ## 👨‍💻 Author
 
 **Abdullahi Bundi**
+
 IoT • Embedded Systems • AI • Python • C++
 
 ---
