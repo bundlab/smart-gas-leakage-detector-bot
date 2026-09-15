@@ -1,8 +1,8 @@
 from fastapi import FastAPI
-from database import SessionLocal
-from models import GasReading
-from telegram_bot import send_alert
-from config import GAS_THRESHOLD
+from backend.database import SessionLocal
+from backend.models import GasReading
+from backend.telegram_bot import send_alert
+from backend.config import GAS_THRESHOLD
 
 app = FastAPI()
 
